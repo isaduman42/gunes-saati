@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844257233115",
+    "project_id": "gunes-saati",
+    "storage_bucket": "gunes-saati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844257233115:android:30e132d2572b0d413c24fe",
+        "android_client_info": {
+          "package_name": "com.example.gunes_saati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPB5wKtWpdtBPY1U51PubWD7TeWjpB0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
